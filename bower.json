@@ -1,0 +1,17 @@
+{
+  "name": "llcdhms",
+  "ignore": [
+    "/.*",
+    "node_modules",
+    "bower_components",
+    "composer.json",
+    "documentation"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1",
+    "Ionicons": "ionicons#^2.0.1",
+    "font-awesome": "^4.7.0",
+    "jquery-ui": "1.11.4"
+  }
+}
